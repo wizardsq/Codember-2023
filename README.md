@@ -8,7 +8,8 @@ Durante el mes de noviembre, Codember lanza un reto de programación cada día, 
 
 ## Estructura del Repositorio
 
-Las soluciones están organizadas por días. Encontrarás una carpeta para cada día del reto de Codember, cada una con su propio conjunto de soluciones y explicaciones.
+Las soluciones están organizadas por días. Encontrarás una carpeta para cada día del reto de Codember, cada una con su propio conjunto de soluciones y explicaciones. 
+Nota: las explicaciones tiene como titulo challenge(numero de reto).md
 
 ## Instalación y Configuración
 
